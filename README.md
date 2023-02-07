@@ -1,8 +1,9 @@
 # Portfolio
 
-#About the project
-##HTML and CSS practice project, with a single-page portfolio example.
+# About the project
 
-# Technologies used.
-+ HTML.
-+ CSS.
+## HTML and CSS practice project, with a single-page portfolio example
+
+# Technologies used
++ HTML
++ CSS
