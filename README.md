@@ -7,4 +7,4 @@
 
 # Technologies used.
 + HTML.
-+ CSS
++ CSS.
