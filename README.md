@@ -3,7 +3,7 @@
 
 # About the project.
 ## HTML and CSS practice project, with a single-page portfolio example.
-![gif portfolio](https://user-images.githubusercontent.com/86026272/217247088-52451e00-fdf0-4649-8ee7-03d04d5ed7a3.gif)
+![Image](https://github.com/user-attachments/assets/256dfc89-771b-448c-af2d-673633c23dd7)
 
 # Technologies used.
 + HTML.
